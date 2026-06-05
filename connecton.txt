@@ -1,0 +1,18 @@
+* In admin folder
+server.php
+connection.php
+config.php
+
+* In approve folder
+connection.php
+config.php
+indi_approve.php
+institunal_approve.php
+member.php
+insti_member.php
+
+
+For login
+user- clarion 
+email- clarion@mixorg.com
+pwd- clarion123#
